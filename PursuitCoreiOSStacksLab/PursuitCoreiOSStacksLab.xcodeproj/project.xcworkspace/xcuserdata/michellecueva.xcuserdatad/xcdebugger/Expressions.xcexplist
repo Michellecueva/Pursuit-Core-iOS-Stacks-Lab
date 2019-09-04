@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "equalStacks&lt;A&gt;(stackOne:stackTwo:):StackProblems.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "valTwo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
